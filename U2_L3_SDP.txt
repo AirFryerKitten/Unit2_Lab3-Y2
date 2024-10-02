@@ -1,0 +1,16 @@
+1. It should be updated in __check_win
+
+2 I will have a grind like pattern like this
+
+[1],[2],[3]
+[4],[5],[6]
+[7],[8],[9]
+
+I will also replace the numbers with a X or O 
+
+3. place_token and it should accept self
+
+4 rules() which shows the game's rules and playerMove which is where the player makes their input.
+
+5 I plan to loop through the lists checking if the values are the same. 
+The diagonals will be coded since they dont work with a loop
